@@ -1,62 +1,61 @@
 body {
   margin: 0;
-	font: 'Roboto', sans-serif;
-	font-size: 18px;
-	color: #000;
-	text-align: justify;
-	background-color: #fefefe;
+  font: 'Roboto', sans-serif;
+  font-size: 18px;
+  color: #000;
+  text-align: justify;
+  background-color: #fefefe;
 }
 
 .main {
-	margin: 0 25%;
-	padding: 20px;
+  margin: 0 25%;
+  padding: 20px;
 }
 
 p {
-	margin: 10px;
+  margin: 10px;
 }
 
 h1 {
-	font-size: 26px;
-	margin: 15px;
+  font-size: 26px;
+  margin: 15px;
 }
 
 h1.title {
-	text-align: center;
-	font-size: 30px;
+  text-align: center;
+  font-size: 30px;
 }
 
 h3 {
-	font-size: 20px;
-	font-weight: bold;
+  font-size: 20px;
+  font-weight: bold;
 }
 
 .container {
-	display: flex;
-	justify-content: center;
-	margin: 10px;
-	font-size: 20px;
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+  font-size: 20px;
 }
 
 .container a {
-	text-decoration: none;
+  text-decoration: none;
 }
 
 .container a:visited {
-	color: #eb8705;
-	
+  color: #eb8705;
 }
 
 .container a:hover {
-	color: #000;
+  color: #000;
 }
 
 .container ul li {
-	padding: 10px 0;
+  padding: 10px 0;
 }
 
 li.pr-url {
-	font-weight: bold;
+  font-weight: bold;
 }
 
 img {
